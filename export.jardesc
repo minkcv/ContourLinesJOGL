@@ -4,7 +4,7 @@
     <options buildIfNeeded="true" compress="true" descriptionLocation="/ContourLinesProject/export.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
     <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
     <selectedProjects/>
-    <manifest generateManifest="true" mainClassHandleIdentifier="=ContourLinesProject/&lt;src{WalkingSimulator.java[WalkingSimulator" manifestLocation="/JOGLProContourLinesProjectject/manifest.txt" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ContourLinesProject/&lt;src{WalkingSimulator.java[WalkingSimulator" manifestLocation="/ContourLinesProject/manifest.txt" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
         <sealing sealJar="false">
             <packagesToSeal/>
             <packagesToUnSeal/>
