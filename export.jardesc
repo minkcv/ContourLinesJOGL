@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/wsmith/TerrainWalk.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ContourLinesProject/export.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ContourLinesProject/&lt;src{WalkingSimulator.java[WalkingSimulator" manifestLocation="/JOGLProContourLinesProjectject/manifest.txt" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=ContourLinesProject/&lt;src{WalkingSimulator.java"/>
+        <file path="/ContourLinesProject/data/ned_86879038.hdr"/>
+        <file path="/ContourLinesProject/data/ned_86879038.flt"/>
+        <javaElement handleIdentifier="=ContourLinesProject/&lt;src{gridFloatReader.java"/>
+        <file path="/ContourLinesProject/data/msh.jpg"/>
+        <file path="/ContourLinesProject/data/ned_86879038.prj"/>
+        <folder path="/ContourLinesProject/jogamp-all-platforms/lib"/>
+    </selectedElements>
+</jardesc>
